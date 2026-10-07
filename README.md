@@ -24,7 +24,7 @@ OpenAnims enhances Halo: CE's vanilla animations. The goal is to fix the stiff, 
 
 **Vehicles**
 - Warthog and Scorpion riders stay seated when throwing.
-- Scorpion riders' arms are freed from the handles while throwing and reloading.
+- Scorpion riders' arms are freed from the handles while throwing and reloading (Disables IK[Inverse Kinematics] until animations finish).
 - Scorpion riders now have a reload animation.
 
 Comparison video: https://www.youtube.com/watch?v=7Mald5-e3XA
