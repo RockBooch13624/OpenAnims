@@ -20,7 +20,7 @@ OpenAnims enhances Halo: CE's vanilla animations. The goal is to fix the stiff, 
 **Grenade throws**
 - Legs keep running while you throw, and blend smoothly when you stop or change direction.
 - Crouched throws stay crouched, and mid-air throws keep the floating jump legs.
-- Your body turns with your aim while throwing (a small gameplay change but not noticeable what so ever. Only noticeable if mouse sensitivity is insanely high. Nonexistant for controller users).
+- Your body turns with your aim while throwing.
 
 **Vehicles**
 - Warthog and Scorpion riders stay seated when throwing.
